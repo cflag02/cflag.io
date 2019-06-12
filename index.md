@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "-- cflag.io --"
+title:  "/"
 ---
 
 ![](/assets/1559181471128.gif)
