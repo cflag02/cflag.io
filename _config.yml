@@ -2,7 +2,7 @@
 title:              "The Plain"
 description:        "A minimalist Jekyll theme"
 author_name:        "cflag" # change this to your name
-logo_url:           https://cflag.io/assets/1559181471128.gif
+logo_url:           "https://cflag.io/assets/1559181471128.gif"
 
 # Site Settings
 url:                https://cflag.io # main url
