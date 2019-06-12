@@ -2,13 +2,15 @@
 layout: page
 title:  "Crazed ramblings"
 ---
-<ul style="list-style: none;">
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }} -- ({{ post.date | date: '%B %d, %Y' }})</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+<center>
+  <ul style="list-style: none;">
+    {% for post in site.posts %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }} -- ({{ post.date | date: '%B %d, %Y' }})</a></h2>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+</center>
 
 
