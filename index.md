@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title:  "/"
+title:  "/home"
 ---
 
 ## help im trapped in a universe factory
