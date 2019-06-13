@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Crazed ramblings"
+title:  "Rantings"
 ---
   <ul style="list-style: none;">
     {% for post in site.posts %}
