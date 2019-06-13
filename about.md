@@ -3,4 +3,6 @@ layout: page
 title: whoami
 ---
 
-I do things sometimes.
+GNU/Linux admin, anarchist, transhumanist.
+
+I do things periodically.
