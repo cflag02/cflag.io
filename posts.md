@@ -2,7 +2,6 @@
 layout: page
 title:  "Crazed ramblings"
 ---
-<center>
   <ul style="list-style: none;">
     {% for post in site.posts %}
       <li>
@@ -11,6 +10,5 @@ title:  "Crazed ramblings"
       </li>
     {% endfor %}
   </ul>
-</center>
 
 
