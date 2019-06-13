@@ -1,13 +1,13 @@
 # Site Info
-title:              "cflag"
+title:              "cflag.io"
 description:        ""
-author_name:        "cflag" # change this to your name
-logo_url:           "/assets/1456260374640.jpg"
+author_name:        "" # change this to your name
+logo_url:           ""
 
 # Site Settings
 url:                https://cflag.io # main url
 baseurl:            /
-permalink:          /:title # Post permalink
+permalink:          /:slug # Post permalink
 timezone:           America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
