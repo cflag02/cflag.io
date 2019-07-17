@@ -3,11 +3,11 @@ layout: page
 title: whoami
 ---
 
-# About
+## About
 GNU/Linux admin, anarchist, transhumanist.
 
 Where did we come from? Where are we going?
 Can the emperor be rebuilt entirely out of cyberdongs?
 
-# Specs
+## Specs
 ![](/assets/specs.png)
