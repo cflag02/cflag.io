@@ -4,7 +4,7 @@ title: whoami
 ---
 
 ## About
-GNU/Linux admin, anarchist, transhumanist.
+GNU/Linux supremacist, anarchist, transhumanist.
 
 Where did we come from? Where are we going?
 
