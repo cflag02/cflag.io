@@ -15,8 +15,8 @@ body {
   font-style: normal;
   font-family: Terminus;
   src: url('Terminus.ttf');
-  color: #cbc6be;
-  background-color: #121110;
+  color: cbc6be;
+  background-color: 121110;
   padding: 20px;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -33,7 +33,7 @@ h5,
 h6 {
     margin-bottom: 1rem;
     line-height: 1.25;
-    color: #313131;
+    color: cbc6be;
 }
 h1 {
   font-size: 2rem;
@@ -59,7 +59,7 @@ img {
   max-width: 100%;
 }
 a {
-  color: #da96e3;
+  color: da96e3;
   text-decoration: none;
   border-bottom:border-bottom: 1px solid #555;
   &.image {
