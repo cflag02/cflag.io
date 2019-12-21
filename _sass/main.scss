@@ -403,3 +403,8 @@ section {
     -webkit-transform: none;
   }
 }
+@media (max-width:700) {
+  img#mascot {
+    display: none;
+  }
+}
