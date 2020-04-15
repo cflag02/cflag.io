@@ -22,9 +22,6 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
-  @media img#mascot (min-width: 992px) {
-    display: none;
-  }
 }
 h1,
 h2,
@@ -58,6 +55,11 @@ h6 {
 }
 img {
   max-width: 100%;
+}
+@media (max-width:629px) {
+  img#mascot {
+    display: none;
+  }
 }
 a {
   color: #da96e3;
