@@ -11,4 +11,4 @@ Where did we come from? Where are we going?
 Can the emperor be rebuilt entirely out of cyberdongs?
 
 ## Desktop / Specs
-<a href="/assets/desktop.png">![](/assets/desktop.png)</a>
+<a href="/assets/specs.png">![](/assets/desktop.png)</a>
