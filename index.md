@@ -5,7 +5,7 @@ title:  "/home"
 
 ## <center>ｈｅｌｐ　ｉｍ　ｔｒａｐｐｅｄ　ｉｎ　ａ　ｕｎｉｖｅｒｓｅ　ｆａｃｔｏｒｙ
 
-### <a href="bitcoin:bc1qxqzr4jw0jfadtdu6qxtskk3dzxnt3f06y85qus?message=Donate&time=1586450829"></a>Give me free money with Bitcoin:</a> (bc1qxqzr4jw0jfadtdu6qxtskk3dzxnt3f06y85qus)</center>
+### <a href="bitcoin:bc1qxqzr4jw0jfadtdu6qxtskk3dzxnt3f06y85qus?message=Donate&time=1586450829">Give me free money with Bitcoin:</a> (bc1qxqzr4jw0jfadtdu6qxtskk3dzxnt3f06y85qus)</center>
 
 ![](/assets/1559181471128.gif)
 
