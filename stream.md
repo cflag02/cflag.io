@@ -9,7 +9,10 @@ title: Live
 <script type="text/javascript">
   new Twitch.Embed("twitch-embed", {
     width: 854,
-    height: 480,
+    height: 550,
     channel: "cflag",
+    theme: "dark",
+    muted: "true",
+    autoplay: "true",
   });
 </script>
