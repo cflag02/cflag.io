@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Live
+description: [I stream sometimes.](https://twitch.tv/cflag)
 ---
-## [I stream sometimes.](https://twitch.tv/cflag)
 <div id="twitch-embed"></div>
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
 <script type="text/javascript">
