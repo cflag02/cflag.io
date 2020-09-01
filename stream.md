@@ -2,7 +2,7 @@
 layout: page
 title: Live
 ---
-I stream sometimes.
+[I stream sometimes.](https://twitch.tv/cflag)
 
 <div id="twitch-embed"></div>
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
