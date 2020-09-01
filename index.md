@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title:  "/home"
+title:  "~"
 ---
 
 ## <center>ｈｅｌｐ　ｉｍ　ｔｒａｐｐｅｄ　ｉｎ　ａ　ｕｎｉｖｅｒｓｅ　ｆａｃｔｏｒｙ</center>
